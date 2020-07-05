@@ -7,5 +7,5 @@ Use stock-market datasets to create predictions over the next few months.
 We will be using stock market dataset from Quantopian or Quandl.
 
 GROUP MEMBERS = 
-AHMED SOHAIL L1F15BSCS0178
+AHMED SOHAIL L1F15BSCS0178 , 
 ZEESHAN AMJAD L1S15BSCS0071
